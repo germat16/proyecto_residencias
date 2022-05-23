@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_residencias",
+  "version": "1.0.0",
+  "description": "Proyecto para la publicacion de residencias en alquiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "residencias",
+    "publicacion",
+    "alquiler"
+  ],
+  "author": "German Matheus Leonard Pirela Angel Colina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
